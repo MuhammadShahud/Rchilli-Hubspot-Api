@@ -61,3 +61,14 @@ gap: 20px;
 #upload-button:hover {
   opacity: 0.8;
 }
+.mainCon{
+  margin-bottom: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px
+}
+.imgLoading{
+  height: 100px;
+  width: 100px;
+}
